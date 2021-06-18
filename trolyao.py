@@ -1,3 +1,4 @@
+# Tao tro ly ao
 import speech_recognition
 import pyttsx3
 from datetime import date, datetime
